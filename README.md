@@ -21,7 +21,7 @@ cd Flux-Decode
 ```
 **Run fluxion (missing dependencies will be auto-installed)**
 ```
-./Flux-Decode.sh
+./fluxion.sh
 ```
 
 **Fluxion is also available in arch** 
