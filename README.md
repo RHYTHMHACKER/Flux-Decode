@@ -9,11 +9,11 @@ Read [here](https://github.com/FluxionNetwork/fluxion/wiki/Generate-ssh-keys) be
 <br>
 **Download the latest revision**
 ```
-git clone git@github.com:FluxionNetwork/fluxion.git
+git clone git@github.com:RHYTHMHACKER/Flux-Decode.git
 
 # Or if you prefer https 
 
-git clone https://www.github.com/FluxionNetwork/fluxion.git
+git clone https://github.com/RHYTHMHACKER/Flux-Decode.git
 ```
 **Switch to tool's directory**
 ```
